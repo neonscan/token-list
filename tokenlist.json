@@ -1,0 +1,293 @@
+{
+    "name": "Neon Token List",
+    "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+    "keywords": [
+        "neon",
+        "defi"
+    ],
+    "tags": {
+        "stablecoin": {
+            "name": "stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "ethereum": {
+            "name": "ethereum",
+            "description": "Asset bridged from ethereum"
+        },
+        "lp-token": {
+            "name": "lp-token",
+            "description": "Asset representing liquidity provider token"
+        },
+        "wrapped-sollet": {
+            "name": "wrapped-sollet",
+            "description": "Asset wrapped using sollet bridge"
+        },
+        "wrapped": {
+            "name": "wrapped",
+            "description": "Asset wrapped using wormhole bridge"
+        },
+        "leveraged": {
+            "name": "leveraged",
+            "description": "Leveraged asset"
+        },
+        "bull": {
+            "name": "bull",
+            "description": "Leveraged Bull asset"
+        },
+        "bear": {
+            "name": "bear",
+            "description": "Leveraged Bear asset"
+        },
+        "nft": {
+            "name": "nft",
+            "description": "Non-fungible token"
+        },
+        "security-token": {
+            "name": "security-token",
+            "description": "Tokens that are used to gain access to an electronically restricted resource"
+        },
+        "utility-token": {
+            "name": "utility-token",
+            "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
+        },
+        "tokenized-stock": {
+            "name": "tokenized-stock",
+            "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+        }
+    },
+    "chainInfo": {
+        "devnet": 245022926,
+        "testnet": 245022940,
+        "mainnet": 245022934
+    },
+    "timestamp": "2021-03-03T19:57:21+0000",
+    "tokens": [
+        {
+            "chainId": 245022926,
+            "address": "0x2e3140211ddfcbb4bb1dba32be3377119e0963de",
+            "symbol": "MORA",
+            "name": "Mora",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0x2e3140211ddfcbb4bb1dba32be3377119e0963de.png",
+            "tags": [],
+            "extensions": {
+                "coingeckoId": "",
+                "website": "https://moraswap.com/"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address": "0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab",
+            "symbol": "WNEON",
+            "name": "Wrapped Neon",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab.png",
+            "tags": [],
+            "extensions": {
+                "coingeckoId": "",
+                "website": "https://neon-labs.org/"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address": "0x816459aad9c378f2a5413b421f53d3503f867e87",
+            "symbol": "mUSDC",
+            "name": "MoraTest USD Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+            "tags": [],
+            "extensions": {
+                "coingeckoId": "usd-coin",
+                "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+                "website": "https://www.centre.io/"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
+            "address": "0x0a5bd0108227b3dfec64199d6939841eecf47a8e",
+            "symbol": "USDT",
+            "name": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+            "tags": [
+                "stablecoin"
+            ],
+            "extensions": {
+                "coingeckoId": "tether",
+                "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+                "website": "https://tether.to/"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "8QTYE7jw4oVYLqgNaks2Uu2S6VfboGcfpQ8Nvvta35Nc",
+            "address": "0x7ad98aeadbbcdf3693b0b53c09da4033704c9322",
+            "symbol": "wDAI_v1",
+            "name": "Dai Stablecoin (Wormhole v1)",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+                "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "dai"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "F4DgNXqiT3zUQA7dhqN5VzEPkRcd8vtqFwpJSwEEvnz5",
+            "address": "0x2578c6c1ac883443388edd688ca10e87d088bfa8",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+            "tags": [
+                "stablecoin"
+            ],
+            "extensions": {
+                "coingeckoId": "usd-coin",
+                "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+                "website": "https://www.centre.io/"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "8F4V6tmyCgM4jnabiv8ohAGsLNrNWnwMrrXrY3LQwnwP",
+            "address": "0x65976a250187cb1d21b7e3693acf102d61c86177",
+            "symbol": "WETH",
+            "name": "Wrapped Ethereum (Sollet)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+            "tags": [
+                "wrapped-sollet",
+                "ethereum"
+            ],
+            "extensions": {
+                "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+                "coingeckoId": "ethereum",
+                "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
+                "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "AaymAPLHxVh68UJU4TkmSDZRnmebWPi8yxP5tmXv5xVU",
+            "address": "0x6fbf8f06ebce724272813327255937e7d1e72298",
+            "symbol": "wWBTC_v1",
+            "name": "Wrapped BTC (Wormhole v1)",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+                "assetContract": "https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "wrapped-bitcoin"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "HdvHZXp5F4ZPxb5V7xG4gpBnwmbzMite85NSg3aycmhi",
+            "address": "0x9e7c05e787bac79730eca196cfab2b1b53f2ff47",
+            "symbol": "AAVE",
+            "name": "Wrapped Aave (Sollet)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
+            "extensions": {
+                "coingeckoId": "aave",
+                "serumV3Usdt": "6bxuB5N3bt3qW8UnPNLgMMzDq5sEH8pFmYJYGgzvE11V"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "FTC9uerzkKGM2FzysdnxpPQMttkMDmjxsuiyGT5AmBnL",
+            "address": "0xd3d383799d3a36b2279e7741b80ec3bdabae4b80",
+            "symbol": "wCRV",
+            "name": "Curve DAO Token (Wormhole v1)",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApmXkxXCASdxRf3Ln6Ni7oAZ7E6CX1CcJAD8A5qBdhSm/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                "assetContract": "https://etherscan.io/address/0xD533a949740bb3306d119CC777fa900bA034cd52",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "curve-dao-token"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "GhFhboJyEt1iHYu6r563y3PxZQ4j8YserdF7YiCYcJUX",
+            "address": "0xb3fd58eda12a6e5577a962aaaa3b15037e756eb4",
+            "symbol": "SUSHI",
+            "name": "Wrapped SUSHI (Sollet)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
+            "tags": [
+                "wrapped-sollet",
+                "ethereum"
+            ],
+            "extensions": {
+                "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+                "coingeckoId": "sushi",
+                "serumV3Usdc": "A1Q9iJDVVS8Wsswr9ajeZugmj64bQVCYLZQLra2TMBMo",
+                "serumV3Usdt": "6DgQRTpJTnAYBSShngAVZZDq7j9ogRN1GfSQ3cq9tubW",
+                "waterfallbot": "https://bit.ly/SUSHIwaterfall",
+                "website": "https://www.sushi.com"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "HU4jzc8c716ryzkfKYtg8PeJfYhjFmkmd3BGUh84fXqQ",
+            "address": "0xc60911b5577f10f582914205d61c64622a6924d8",
+            "symbol": "wBAL",
+            "name": "Balancer (Wormhole v1)",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+                "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "balancer"
+            }
+        },
+        {
+            "chainId": 245022926,
+            "address_spl": "So11111111111111111111111111111111111111112",
+            "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+            "symbol": "wSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+                "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "solana"
+            }
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 3,
+        "patch": 3
+    }
+}
