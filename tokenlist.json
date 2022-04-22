@@ -283,6 +283,81 @@
                 "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
                 "coingeckoId": "solana"
             }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "chainId": 245022940,
+            "address_spl": "GhFhboJyEt1iHYu6r563y3PxZQ4j8YserdF7YiCYcJUX",
+            "address": "0xb3fd58eda12a6e5577a962aaaa3b15037e756eb4",
+            "symbol": "SUSHI",
+            "name": "Wrapped SUSHI (Sollet)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
+            "tags": [
+                "wrapped-sollet",
+                "ethereum"
+            ],
+            "extensions": {
+                "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+                "coingeckoId": "sushi",
+                "serumV3Usdc": "A1Q9iJDVVS8Wsswr9ajeZugmj64bQVCYLZQLra2TMBMo",
+                "serumV3Usdt": "6DgQRTpJTnAYBSShngAVZZDq7j9ogRN1GfSQ3cq9tubW",
+                "waterfallbot": "https://bit.ly/SUSHIwaterfall",
+                "website": "https://www.sushi.com"
+            }
+        },
+        {
+            "chainId": 245022940,
+            "address_spl": "HU4jzc8c716ryzkfKYtg8PeJfYhjFmkmd3BGUh84fXqQ",
+            "address": "0xc60911b5577f10f582914205d61c64622a6924d8",
+            "symbol": "wBAL",
+            "name": "Balancer (Wormhole v1)",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+                "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "balancer"
+            }
+        },
+        {
+            "chainId": 245022940,
+            "address_spl": "So11111111111111111111111111111111111111112",
+            "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+            "symbol": "wSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+                "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+                "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+                "coingeckoId": "solana"
+            }
         }
     ],
     "version": {
