@@ -90,20 +90,6 @@
         },
         {
             "chainId": 245022926,
-            "address": "0x816459aad9c378f2a5413b421f53d3503f867e87",
-            "symbol": "mUSDC",
-            "name": "MoraTest USD Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-            "tags": [],
-            "extensions": {
-                "coingeckoId": "usd-coin",
-                "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-                "website": "https://www.centre.io/"
-            }
-        },
-        {
-            "chainId": 245022926,
             "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
             "address": "0xAA24A5A5E273EFAa64a960B28de6E27B87FfDFfc",
             "symbol": "USDT",
