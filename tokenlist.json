@@ -252,7 +252,7 @@
             }
         },
         {
-            "chainId": 245022926,
+            "chainId": 111,
             "address_spl": "So11111111111111111111111111111111111111112",
             "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
             "symbol": "wSOL",
