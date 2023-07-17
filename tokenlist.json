@@ -346,7 +346,37 @@
             "extensions": {
                 "coingeckoId": "solana"
             }
-        }
+        },
+        {
+            "chainId": 245022934,
+            "address_spl": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+            "tags": [
+                "stablecoin"
+            ],
+            "extensions": {
+                "coingeckoId": "usd-coin"
+            }
+        },
+        {
+            "chainId": 245022934,
+            "address_spl": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
+            "symbol": "USDT",
+            "name": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+            "tags": [
+                "stablecoin"
+            ],
+            "extensions": {
+                "coingeckoId": "tether"
+            }
+        },
     ],
     "version": {
         "major": 0,
