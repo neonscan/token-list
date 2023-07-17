@@ -376,7 +376,7 @@
             "extensions": {
                 "coingeckoId": "tether"
             }
-        },
+        }
     ],
     "version": {
         "major": 0,
