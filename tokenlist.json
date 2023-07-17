@@ -328,7 +328,25 @@
                 "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
                 "coingeckoId": "solana"
             }
-        }
+        },
+
+
+        {
+            "chainId": 245022934,
+            "address_spl": "So11111111111111111111111111111111111111112",
+            "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+            "symbol": "wSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+            "tags": [
+                "wrapped",
+                "wormhole"
+            ],
+            "extensions": {
+                "coingeckoId": "solana"
+            }
+        },
     ],
     "version": {
         "major": 0,
