@@ -376,7 +376,24 @@
             "extensions": {
                 "coingeckoId": "tether"
             }
+        },
+                {
+            "chainId": 245022934,
+            "address_spl": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+            "address": "0x202c35e517fa803b537565c40f0a6965d7204609",
+            "symbol": "wNEON",
+            "name": "Wrapped NEON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab.png",
+            "tags": [
+            ],
+            "extensions": {
+                "coingeckoId": "neon"
+            }
         }
+
+
+        
     ],
     "version": {
         "major": 0,
