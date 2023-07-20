@@ -329,8 +329,6 @@
                 "coingeckoId": "solana"
             }
         },
-
-
         {
             "chainId": 245022934,
             "address_spl": "So11111111111111111111111111111111111111112",
@@ -377,7 +375,7 @@
                 "coingeckoId": "tether"
             }
         },
-                {
+        {
             "chainId": 245022934,
             "address_spl": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
             "address": "0x202c35e517fa803b537565c40f0a6965d7204609",
@@ -385,15 +383,37 @@
             "name": "Wrapped NEON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab.png",
-            "tags": [
-            ],
+            "tags": [],
             "extensions": {
                 "coingeckoId": "neon"
             }
+        },
+        {
+            "chainId": 245022934,
+            "address_spl": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+            "address": "0x54EcEC9D995A6CbFF3838F6a8F38099E518805d7",
+            "symbol": "wBTC",
+            "name": "BTC (Sollet)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/sollet-wbtc-logo.svg",
+            "tags": [],
+            "extensions": {
+                "coingeckoId": "wrapped-bitcoin"
+            }
+        },
+        {
+            "chainId": 245022934,
+            "address_spl": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+            "address": "0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A",
+            "symbol": "wETH",
+            "name": "WETH (Wormhole)",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wormhole-weth-logo.svg",
+            "tags": [],
+            "extensions": {
+                "coingeckoId": "ethereum"
+            }
         }
-
-
-        
     ],
     "version": {
         "major": 0,
