@@ -413,6 +413,26 @@
             "extensions": {
                 "coingeckoId": "ethereum"
             }
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+            "symbol": "MORA",
+            "name": "MORA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0x2043191e10a2A4b4601F5123D6C94E000b5d915F/logo.png",
+            "tags": [],
+            "extensions": {}
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+            "symbol": "sMORA",
+            "name": "sMORA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/moraswap/tokens/master/blockchains/neon/assets/0xa3da566fdE97c90c08052f612BdBed8F3B8004B7/logo.png",
+            "tags": [],
+            "extensions": {}
         }
     ],
     "version": {
